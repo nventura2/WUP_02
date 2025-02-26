@@ -48,6 +48,8 @@ It appears to me from the graph that the Q3 has less vitamin c than the Q1 of c5
 favstats(VitC~Cult,data=veggy)
 ```
 
+This chart is showing proof that the Q3 of c39 didn't make anything near the Q1 of c52.
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
