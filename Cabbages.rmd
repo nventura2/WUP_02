@@ -65,4 +65,6 @@ I reject the null hypothesis because the chances are an extremely tiny number. T
 
 # Discussion and Conclusion
 
+In conclusion I did the boxplot, ran the numerical, looked at the graphs and results showed that the Q1 of c52 is far larger in results than the Q3 of c39 which made me reject the null hypothesis.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
